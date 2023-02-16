@@ -2,9 +2,7 @@
 layout: single
 title: "Github Pages [1] 글 쓰는 법"
 author: G-Nan
-date: '2023-02-16 13:34:00 +0530'
-category: Github Pages
-thumbnail:
+date: '2023-02-16 13:34:00'
 ---
 
 # Github Pages 글 쓰는 법
