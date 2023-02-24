@@ -9,6 +9,11 @@ title: 1주차 두 번째 문제 - 평행
 
 # 1주차 두 번째 문제 
 Programmers의 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)이라는 문제를 다 같이 풀어보았습니다.
+
+
+
+
+
 <br><br><br>
 > ## 📖 문제
 > ![image](https://user-images.githubusercontent.com/97678547/221108110-234318aa-44ec-4a2a-967c-72d5851f50c9.png)
