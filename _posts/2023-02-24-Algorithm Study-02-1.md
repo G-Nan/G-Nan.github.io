@@ -1,13 +1,11 @@
 ---
 layout: single
-title: 알고리즘 스터디 1주차 - 첫 번째 문제
+title: 1주차 첫 번째 문제 - 둘만의 암호
 ---
 
 
 
 
-
-# 알고리즘 스터디 1주차
 
 ## 문제 링크 : [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 > ### 📖 문제
