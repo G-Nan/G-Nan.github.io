@@ -20,7 +20,8 @@ Programmers의 [푸드 파이트 대회](https://school.programmers.co.kr/learn/
  <br><br><br>
  ## ✏️ 나의 풀이
 
-  ```def solution(food):
+```python
+def solution(food):
    answer = ''
    
    k = 0
