@@ -35,3 +35,6 @@ Programmers의 [둘만의 암호](https://school.programmers.co.kr/learn/courses
 > ## 💡 느낀점
 >  1. 스터디원 중 한 명은 먼저 index만큼 옮겨준 뒤 skip의 문자열을 제거하려다 실패했다고 한다. <br>
 >     (이렇게 하는 경우 조건문을 사용하기에 조금 더 복잡해 질 수 있으므로 잘 안되는 경우에 순서를 바꿔보는 것도 좋은 방법이다.)
+
+
+출처 : 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
