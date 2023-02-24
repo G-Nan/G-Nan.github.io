@@ -1,5 +1,5 @@
 ---
-layer: single
+layout: single
 title: 파이썬 알고리즘 스터디 시작!
 ---
 
