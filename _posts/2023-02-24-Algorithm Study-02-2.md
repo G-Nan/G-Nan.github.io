@@ -8,12 +8,12 @@ title: 1주차 두 번째 문제 - 평행
 
 
 # 1주차 두 번째 문제 
-Programmers의 평행이라는 문제를 다 같이 풀어보았습니다.
-
-## [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
-> ### 📖 문제
+Programmers의 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)이라는 문제를 다 같이 풀어보았습니다.
+<br><br><br>
+> ## 📖 문제
 > ![image](https://user-images.githubusercontent.com/97678547/221108110-234318aa-44ec-4a2a-967c-72d5851f50c9.png)
-> ### ✏️ 나의 풀이
+> <br><br><br>
+> ## ✏️ 나의 풀이
 >
 >  ```python
 >  def solution(dots):
@@ -41,7 +41,11 @@ Programmers의 평행이라는 문제를 다 같이 풀어보았습니다.
 >  4. 이후 기울기 = y변화량 / x변화량 을 이용하여 각 직선의 기울기를 **grad1**과 **grad2**라는 변수에 할당해주었다.
 >  5. 조건문을 사용하여 두 기울기가 같은 경우 1, 다른 경우 0이 나오게끔 하였다. <br>
 >  (직선이 일치하는 경우도 출력값이 1이 나와야하므로 따로 일치하는 경우를 제거해주지는 않았다.)
-> ### 💡 느낀점
+>  <br><br><br>
+> ## 💡 느낀점
 >  1. 스터디원 중 한 명은 수학 식이 기억이 나지 않아 식을 사용하지 않고 푸는 방법을 제시하였다. <br>
 >  깔끔하게 떨어지면 좋겠지만, 기억이 나지 않거나 잘 모르겠을 때에도 최선을 다하는 모습이 인상깊었다.
->  
+
+<br><br><br><br>
+잘못된 내용이나 피드백은 언제나 환영입니다. <br>
+출처 : 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
