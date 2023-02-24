@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "Slowly but Surely"
 name                     : "G-Nan"
 description              : "Here is Gnan's blog"
-url                      : "https://gnan.github.io"
+url                      : "https://g-nan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gnan"
+  name             : "Kim Geun Han"
   avatar           : "/assets/images/Profile.jpg"
-  bio              : "Slowly and Surely"
+  bio              : "I'm interested in **Mathematics** and **AI**"
   location         : "Daegu, South Korea"
-  email            : "rmsahd12@naver.com"
+  #email            : "rmsahd12@naver.com"
   links:
-    - label: "Email"
+    - label: "rmsahd12@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "rmsahd12@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/G-Nan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/gnan0606/"
 
 # Site Footer
 footer:
