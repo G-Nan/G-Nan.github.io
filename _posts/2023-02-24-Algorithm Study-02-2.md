@@ -1,11 +1,14 @@
 ---
 layout: single
-title: 1주차 2번째 문제 - 평행
+title: 1주차 두 번째 문제 - 평행
 ---
 
 
 
 
+
+# 1주차 두 번째 문제 
+Programmers의 평행이라는 문제를 다 같이 풀어보았습니다.
 
 ## [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 > ### 📖 문제
