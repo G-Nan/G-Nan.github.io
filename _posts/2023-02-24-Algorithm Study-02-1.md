@@ -8,7 +8,7 @@ title: 1주차 첫 번째 문제 - 둘만의 암호
 
 
 # 1주차 첫 번째 문제
-Programmers의 [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)라는 무제를 다 같이 풀어보았습니다.
+Programmers의 [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)라는 문제를 다 같이 풀어보았습니다.
 <br><br><br>
 > ## 📖 문제
 > ![image](https://user-images.githubusercontent.com/97678547/221104558-7565a0ba-6540-4169-b4b2-b4963718eed4.png)
