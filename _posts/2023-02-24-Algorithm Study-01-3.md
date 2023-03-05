@@ -7,12 +7,8 @@ title: 1주차 세 번째 문제 - 푸드 파이트 대회
 
 
 
-# 1주차 세 번째 문제
+
 Programmers의 [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)라는 문제를 다 같이 풀어보았습니다.
-
-
-
-
 
 <br><br><br>
 
