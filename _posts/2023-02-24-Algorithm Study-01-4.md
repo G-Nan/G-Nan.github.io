@@ -7,12 +7,8 @@ title: 1주차 네 번째 문제 - 다음에 올 숫자
 
 
 
-# 1주차 네 번째 문제
+
 Programmers의 [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)라는 문제를 다 같이 풀어보았습니다.
-
-
-
-
 
 <br><br><br>
 
