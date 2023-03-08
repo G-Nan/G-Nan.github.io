@@ -8,18 +8,18 @@ title: 2주차 첫 번째 문제 - 주유소
 
 
 
-Baekjoon의 [주유소](https://www.acmicpc.net/problem/13305)라는 문제를 다 같이 풀어보았습니다.
+# Baekjoon의 [주유소](https://www.acmicpc.net/problem/13305)라는 문제를 다 같이 풀어보았습니다.
 
 <br><br><br>
 
- ## 📖 문제
+## 📖 문제
 ![image](https://user-images.githubusercontent.com/97678547/222954411-b84da6c7-0f58-4f18-a142-67ae67987f24.png)
  <br><br><br>
  
- ## ✏️ 나의 풀이
+## ✏️ 나의 풀이
 
   ```python
-  x1 = int(input())
+x1 = int(input())
 x2 = list(map(int, input().split( )))
 x3 = list(map(int, input().split( )))
 answer = 0
@@ -39,7 +39,7 @@ print(answer)
   3. **min_oil**값과 그 기름 값으로 가야하는 이동 거리를 곱하여 총 비용을 계산
   <br><br><br>
   
- ## 💡 느낀점
+## 💡 느낀점
   - 처음 풀이를 하였을 때 실패를 하였는데, 그 이유는 전 마을과 다음 마을의 기름 가격을 비교하여 더 싼 기름 가격으로 가는 방법을 사용하였다. <br>
       하지만 이러한 방법을 사용하면 문제가 발생했는데 아래 예를 통해 보자면
       ```
