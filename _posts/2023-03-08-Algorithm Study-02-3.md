@@ -12,11 +12,11 @@ title: 2주차 세 번째 문제 - 셀프 넘버
 
 <br><br><br>
 
- ## 📖 문제
+## 📖 문제
 ![image](https://user-images.githubusercontent.com/97678547/223660274-01fbb61c-6640-46d8-88ad-5908bde283e6.png)
  <br><br><br>
  
- ## ✏️ 나의 풀이
+## ✏️ 나의 풀이
 
   ```python
 unit = []
@@ -43,7 +43,7 @@ for i in range(1, 10001):
   4. 이 후 1부터 10000까지의 수 중에서 **unit**에 포함되지 않는 숫자들을 출력
   <br><br><br>
   
- ## 💡 느낀점
+## 💡 느낀점
   - 생성자로 인해서 생성되는 수를 나는 for문을 이용하여 만들어냈지만, 스터디원중 한 명은 아래와 같은 방법을 활용하였다.
   ```python
   i_list = i + sum(map(int, str(i)))
