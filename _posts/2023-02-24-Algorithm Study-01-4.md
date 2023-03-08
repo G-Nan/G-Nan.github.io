@@ -19,13 +19,13 @@ title: 1주차 네 번째 문제 - 다음에 올 숫자
 ## ✏️ 나의 풀이
 
   ```python
-  def solution(common):
+def solution(common):
     answer = 0
    
     if common[0] + common[2] == 2 * common[1]:
-      answer = common[0] + (common[1]-common[0]) * len(common)
+        answer = common[0] + (common[1]-common[0]) * len(common)
     else:
-      answer = common[0] * (common[1]/common[0]) ** len(common)
+        answer = common[0] * (common[1]/common[0]) ** len(common)
       
     return answer
   ```
