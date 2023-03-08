@@ -8,15 +8,15 @@ title: 1주차 두 번째 문제 - 평행
 
 
 
-Programmers의 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)이라는 문제를 다 같이 풀어보았습니다.
+# Programmers의 [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)이라는 문제를 다 같이 풀어보았습니다.
 
 <br><br><br>
 
- ## 📖 문제
+## 📖 문제
  ![image](https://user-images.githubusercontent.com/97678547/221108110-234318aa-44ec-4a2a-967c-72d5851f50c9.png)
  <br><br><br>
  
- ## ✏️ 나의 풀이
+## ✏️ 나의 풀이
 
   ```python
   def solution(dots):
@@ -46,7 +46,7 @@ Programmers의 [평행](https://school.programmers.co.kr/learn/courses/30/lesson
   (직선이 일치하는 경우도 출력값이 1이 나와야하므로 따로 일치하는 경우를 제거해주지는 않았다.)
   <br><br><br>
   
- ## 💡 느낀점
+## 💡 느낀점
   1. 스터디원 중 한 명은 수학 식이 기억이 나지 않아 식을 사용하지 않고 푸는 방법을 제시하였다. <br>
   깔끔하게 떨어지면 좋겠지만, 기억이 나지 않거나 잘 모르겠을 때에도 최선을 다하는 모습이 인상깊었다.
 
