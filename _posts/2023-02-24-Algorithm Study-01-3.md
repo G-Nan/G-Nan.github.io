@@ -20,19 +20,19 @@ title: 1주차 세 번째 문제 - 푸드 파이트 대회
 
 ```python
 def solution(food):
-   answer = ''
+    answer = ''
    
-   k = 0
-   eat = ''
-   for i in food: 
-       if k == 0:
-           pass
+    k = 0
+    eat = ''
+    for i in food: 
+        if k == 0:
+            pass
        
-       eat += str(k) * (i // 2)
-       k += 1
+        eat += str(k) * (i // 2)
+        k += 1
    
-   answer = eat + '0' + eat[::-1]
-   return answer
+    answer = eat + '0' + eat[::-1]
+    return answer
   ```
   1. **food**의 가장 첫 번째 원소는 항상 물이기에 **k=0**일 때는 **pass**
   2. 이후 음식의 종류는 1, 2, 3, ... 순서대로 올라가기에 ```k+=1```을 하여 음식의 종류를 할당
