@@ -8,15 +8,15 @@ title: 1주차 세 번째 문제 - 푸드 파이트 대회
 
 
 
-Programmers의 [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)라는 문제를 다 같이 풀어보았습니다.
+# Programmers의 [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)라는 문제를 다 같이 풀어보았습니다.
 
 <br><br><br>
 
- ## 📖 문제
+## 📖 문제
  ![image](https://user-images.githubusercontent.com/97678547/221114200-3bd90e26-d59a-4059-a7a1-c1b3d69a79b0.png)
  <br><br><br>
  
- ## ✏️ 나의 풀이
+## ✏️ 나의 풀이
 
 ```python
 def solution(food):
@@ -41,7 +41,7 @@ def solution(food):
   5. 가운데 물인 0을 넣어주고, ```[::-1]```를 이용해 오른쪽 사람이 먹는 음식 순서를 나열한 후 더해줌
   <br><br><br>
   
- ## 💡 느낀점
+## 💡 느낀점
   1. 다른 스터디원들은 ```''.join.reversed()```를 이용하여 5번 과정을 해결하였는데, 또 하나의 방법을 알게되었다.
   2. 한 스터디원은 음식 개수를 나누어 줄 때 홀수와 짝수를 나누어 계산하였는데, 코드는 길어지지만 조금 더 확실하고 가독성이 좋았던 것 같다.
 
