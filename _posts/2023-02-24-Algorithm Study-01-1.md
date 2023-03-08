@@ -19,18 +19,18 @@ title: 1주차 첫 번째 문제 - 둘만의 암호
 ## ✏️ 나의 풀이
 
   ```python
-  def solution(s, skip, index):
-      apb = 'abcdefghijklmnopqrstuvwxyz'
+def solution(s, skip, index):
+    apb = 'abcdefghijklmnopqrstuvwxyz'
       
-      for i in skip:
-          apb = apb.replace(i, '')
+    for i in skip:
+        apb = apb.replace(i, '')
       
-      answer = ''
+    answer = ''
     
-      for i in s:
-          answer += apb[(apb.index(i) + index)%len(apb)] 
+    for i in s:
+        answer += apb[(apb.index(i) + index)%len(apb)] 
         
-      return answer
+    return answer
   ```
   1. 알파벳 문자열을 생성
   2. **skip**에 포함된 문자열을 알파벳 문자열에서 제거
