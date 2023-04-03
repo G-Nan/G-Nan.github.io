@@ -8,6 +8,7 @@ title: 4주차 첫 번째 문제 - 평균은 넘겠지
 
 
 <br>
+
 # Baekjoon의 [평균은 넘겠지](https://www.acmicpc.net/problem/4344)라는 문제를 다 같이 풀어보았습니다.
 
 <br><br><br>
