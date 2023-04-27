@@ -14,7 +14,8 @@ title: 5주차  첫 번째 문제 - 당구 연습
 <br><br><br>
 
 ## 📖 문제
-![image](https://user-images.githubusercontent.com/97678547/234786509-14ff2d28-439f-4eb1-9983-cb47b3f25dc1.png)
+![image](https://user-images.githubusercontent.com/97678547/234841536-0486b43e-a907-4a70-95cd-a274de8f4f98.png)
+
 
 <br><br><br>
  
